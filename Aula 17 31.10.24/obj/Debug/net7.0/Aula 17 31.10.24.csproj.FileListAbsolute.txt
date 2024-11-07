@@ -1,0 +1,158 @@
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\appsettings.json
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Aula 17 31.10.24.staticwebassets.runtime.json
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Aula 17 31.10.24.exe
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Aula 17 31.10.24.deps.json
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Aula 17 31.10.24.runtimeconfig.json
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Aula 17 31.10.24.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Aula 17 31.10.24.pdb
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Humanizer.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.csproj.AssemblyReference.cache
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.AssemblyInfoInputs.cache
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.AssemblyInfo.cs
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.csproj.CoreCompileInputs.cache
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.RazorAssemblyInfo.cache
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.RazorAssemblyInfo.cs
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\staticwebassets\msbuild.Aula 17 31.10.24.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\staticwebassets\msbuild.build.Aula 17 31.10.24.props
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Aula 17 31.10.24.props
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Aula 17 31.10.24.props
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\scopedcss\bundle\Aula 17 31.10.24.styles.css
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\scopedcss\projectbundle\Aula 17 31.10.24.bundle.scp.css
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.csproj.CopyComplete
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\refint\Aula 17 31.10.24.dll
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.pdb
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.genruntimeconfig.cache
+C:\Users\dj_ds\Documents\Aulas Senai\Desenvolvimento de Sistemas\Desenvolvimento de Sistemas 2024.2\Práticas\Aula 17 31.10.24\obj\Debug\net7.0\ref\Aula 17 31.10.24.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\appsettings.json
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Aula 17 31.10.24.staticwebassets.runtime.json
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Aula 17 31.10.24.exe
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Aula 17 31.10.24.deps.json
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Aula 17 31.10.24.runtimeconfig.json
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Aula 17 31.10.24.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Aula 17 31.10.24.pdb
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Humanizer.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.csproj.AssemblyReference.cache
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.AssemblyInfoInputs.cache
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.AssemblyInfo.cs
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.csproj.CoreCompileInputs.cache
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.RazorAssemblyInfo.cache
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.RazorAssemblyInfo.cs
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\staticwebassets\msbuild.Aula 17 31.10.24.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\staticwebassets\msbuild.build.Aula 17 31.10.24.props
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Aula 17 31.10.24.props
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Aula 17 31.10.24.props
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\scopedcss\bundle\Aula 17 31.10.24.styles.css
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\scopedcss\projectbundle\Aula 17 31.10.24.bundle.scp.css
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 .ECA9DA28.Up2Date
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\refint\Aula 17 31.10.24.dll
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.pdb
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\Aula 17 31.10.24.genruntimeconfig.cache
+C:\Users\aluno.senai\Desktop\Aula 17 31.10.24\obj\Debug\net7.0\ref\Aula 17 31.10.24.dll

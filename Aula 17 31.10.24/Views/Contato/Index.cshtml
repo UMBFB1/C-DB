@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Pagina de Contato";
+}
+
+<div class="text-center">
+    <h2>Lista de Contatos</h2>
+    <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+        <a class="btn btn-outline-primary" role="button" asp-controller="Contato" asp-action="Criar">Adicionar
+            Contato</a>
+    </div>
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Email</th>
+                <th scope="col">Telefone</th>
+                <th scope="col"> </th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                for (int i = 1; i <= 4; i++)
+                {
+                    <tr>
+                        <th scope="row">@i</th>
+                        <td>Westn</td>
+                        <td>westn@gmail.com</td>
+                        <td>7070-7070</td>
+                        <td>
+                            <div class="btn-group" role="group" aria-label="Exemplo básico">
+                                <a role="button" asp-controller="contato" asp-action="Editar" class="btn btn-primary">Editar</a>
+                                <a asp-controller="Contato" asp-action="VerificarDeletar" type="button" class="btn btn-danger">Deletar</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            }
+            @* <tr>
+            <th scope="row">2</th>
+            <td>David</td>
+            <td>davidbarao@gmailcom</td>
+            <td>70717870</td>
+            </tr>
+            <tr>
+            <th scope="row">3</th>
+            <td>Vitor</td>
+            <td>vitormagnata@magnata.com</td>
+            <td>70797970</td>
+            </tr> *@
+        </tbody>
+    </table>
+</div>

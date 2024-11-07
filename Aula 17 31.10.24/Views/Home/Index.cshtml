@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Pagina inicial";
+    var hora = DateTime.Now.Hour;
+    var mensagem = "";
+    if(hora >= 18){
+        mensagem = "Boa noite";
+    } else if(hora >= 12){
+        mensagem = "Boa tarde";
+    }else{
+        mensagem = "Bom dia";
+    }
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bem Vindo(a), @mensagem!</h1>
+    <h5>Sistema de Cadastro de Usuários</h5>
+</div>
